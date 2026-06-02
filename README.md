@@ -1,12 +1,38 @@
-# React + Vite
+# Project Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FAQ-Centre
 
-Currently, two official plugins are available:
+This is a single-page website created as a practice project to demonstrate the
+use of Tailwind CSS. It has been built using React and Vite, and includes support
+for dark mode.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Single-page application
+- Responsive design (powered by Tailwind CSS)
+- Dark mode support
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- React
+- vite
+- tailwind
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js installed on your machine.
+
+### Installation
+
+1. Clone the repo: `https://github.com/mdmrnn/CodeAndCreate-FAQ.git`
+2. Navigate to the folder: `cd CODEANDCREATE-FAQ`
+3. Install dependencies: `npm install`
+4. Run the project: `npm run dev`
+
+This will launch the FAQ-Center website, and you can view it in your browser, usually at http://localhost:5173/.
+
+### Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
